@@ -13,5 +13,5 @@ https://subscribe.bylinetimes.com/books/
 https://bylineaudio.com/
 https://bylinesnetwork.co.uk/
 
-page:
-- https://www.splcenter.org/hatewatch/2022/05/06/leaked-audio-underscores-dark-side-far-right-youtube-subculture
+Relation:
+- https://www.splcenter.org/hatewatch/2022/05/06/leaked-audio-underscores-dark-side-far-right-youtube-subculture -> https://bylinetimes.com/2022/05/06/wipe-jews-off-the-face-of-the-earth-racism-and-antisemitic-slurs-of-viral-youtuber-exposed/
